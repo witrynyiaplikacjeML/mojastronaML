@@ -1,4 +1,3 @@
-# mojastronaML
 <!DOCTYPE html> 
 <html lang="pl-PL"> 
 <html> 
@@ -27,10 +26,10 @@
 <p align="left"> <font color="pink" size="7" face="Verdana"> ;) uśmiech z przymrużeniem oka </font> </p> <br>
 <p align="left"> <font color="green" size="8" face="Courier New"> :) uśmiech </font> </p> <br>
 <p align="left"> <font color="red" size="3" face="Arial"> adress:80-123,Gdańsk,Słoneczna <u>42/3</u> </font> </p> <br>
-<p align="right"> <font color="red" size="3" face="Verdana">  </font> </p> <br>
-<p align="right"> <font color="red" size="3" face="Arial"> Dominik </font> </p> <br>
+<p align="right"> <font color="yellow" size="7" face="Verdana">ULUBIONY AKTOR:JOHN RAMBO</font> </p> <br>
+<p align="right"> <font color="red" size="3" face="Arial"> ULUBIONY ZESPÓŁ Muzyczny:LN </font> </p> <br>
 <p align="right"> <font color="red" size="3" face="Courier"> Dominik </font> </p> <br>
-<p align="right"> <font color="red" size="3" face="Arial"> H<sub>2</sub>SO<sub>4</sub> </font> </p> <br>
+<p align="left"> <font color="red" size="3" face="Arial"> H<sub>2</sub>SO<sub>4</sub> </font> </p> <br>
 <p align="right"> <font color="red" size="3" face="New Roman"> Dominik </font> </p> <br>
     </body> 
   </html> 
