@@ -32,6 +32,6 @@
 <p align="left"> <font color="red" size="3" face="Arial"> H<sub>2</sub>SO<sub>4</sub> </font> </p> <br>
 
          
-<p align="right"> <font color="red" size="3" face="New Roman"> x<sup>*</sup>x=x<sup>2</sup> </font> </p> <br>
+<p align="left"> <font color="red" size="3" face="New Roman"> x<sup>*</sup>x=x<sup>2</sup> </font> </p> <br>
     </body> 
   </html> 
