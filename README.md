@@ -25,12 +25,12 @@
 <p align="left"> <font color="black" size="6" face="Courier New"> :( smutek, zmartwienie </font> </p> <br>
 <p align="left"> <font color="pink" size="7" face="Verdana"> ;) uśmiech z przymrużeniem oka </font> </p> <br>
 <p align="left"> <font color="green" size="8" face="Courier New"> :) uśmiech </font> </p> <br>
-<p align="left"> <font color="red" size="3" face="Arial"> adress:80-123,Gdańsk,<u>Słoneczna</u><strike>44/3</strike></font> </p> <br>
+<p align="left"> <font color="black" size="3" face="Arial"> adress:80-123,Gdańsk,<u>Słoneczna</u><strike>44/3</strike></font> </p> <br>
 <p align="right"> <font color="yellow" size="7" face="Courier New">ULUBIONY AKTOR:JOHN RAMBO</font> </p> <br>
 <p align="center"> <font color="gray" size="5" face="Arial">ULUBIONY ZESPÓŁ Muzyczny:LN</font> </p> <br>
 <p align="center"> <font color="green" size="4" face="Arial"> DATA URODZENIA: 1_MARZEC_2011.</font> </p> <br>
-<p align="left"> <font color="red" size="3" face="Arial"> H<sub>2</sub>SO<sub>4</sub> </font> </p> <br>
+<p align="left"> <font color="black" size="4" face="Arial"> H<sub>2</sub>SO<sub>4</sub> </font> </p> <br>
         
-<p align="left"> <font color="red" size="3" face="New Roman"> x<sup>*</sup>x=x<sup>2</sup> </font> </p> <br>
+<p align="left"> <font color="black" size="3" face="New Roman"> x<sup>*</sup>x=x<sup>2</sup> </font> </p> <br>
     </body> 
   </html> 
