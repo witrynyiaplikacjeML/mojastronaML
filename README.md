@@ -36,14 +36,35 @@
 
 <p align="left"> <font color="black" size="7" face="Georgia"><nobr>poniżej są trzy wyliczenia z różnymi znakami wyliczenia</nobr> </font> </p> <br>
 <p align="left"> <font color="black" size="7" face="Georgia"> Ty zaproponuj  swoje,związane z informatyką</font> </p> <br>
-<p align="left"> <font color="blue" size="4" face="Arial"> Możliwość formatowania tekstu w HTML.</font> </p> <br>
+<p align="left"> <font color="blue" size="4" face="Arial">podstawowe polecenia C++ </font> </p> <br>
 <UL TYPE=disc>
-<LI>mjdndiddd</LI>
-<LI>robia się tak ja kbvrkrhnd</LI>
-<LI>jloaefsubbgpfuiofbn</LI>
+<LI>cout << "Hello";(wyświetla tekst)</LI>
+<LI>cin >> x;(wczytuje wartość użytkownika)</LI>
+<LI>endl;(przejście do nowej lini)</LI>     
 </UL>
 
+ <UL TYPE=circle>
+<LI>#include<iostream>(biblioteka to taki zestaw gotowych rzeczy </LI>
+<LI>double(liczba dziesiętna np.5.5)</LI>
+<LI>w C++ nie ma przecinków pomiędzy liczbami a są kropki</LI>
 
+<UL TYPE=square>
+<LI>Mnożenie w C++ zaznaczamy gwiazdką np. 5*2=10</LI>
+<LI>potęgowanie to pow(2,3)= 8 Bo 2<sub>3</sub>=3</Li>
+<LI> sqrt(25); czyli pierwiastek z 25 </LI>
+
+
+
+
+</Ul>
+
+
+
+
+
+
+
+ </UL>
 
 
 
