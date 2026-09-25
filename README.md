@@ -45,15 +45,15 @@
 </UL>
      
 <UL TYPE=circle>
-<LI><font color="blue"#include iostream (biblioteka to taki zestaw gotowych rzeczy w programie </LI></font>
-<LI><font color="blue"double(liczba dziesiętna np.5.5)</LI></font>
-<LI><font color="blue"w C++ nie ma przecinków pomiędzy liczbami a są kropki</LI></font>
+<LI><font color="blue" #include iostream (biblioteka to taki zestaw gotowych rzeczy w programie </LI></font>
+<LI><font color="blue" double(liczba dziesiętna np.5.5)</LI></font>
+<LI><font color="blue" w C++ nie ma przecinków pomiędzy liczbami a są kropki</LI></font>
 </UL>
 
 <UL TYPE=square>
-<LI><font color="blue"Mnożenie w C++ zaznaczamy gwiazdką np. 5*2=10</LI></font>
-<LI><font color="blue"potęgowanie to pow(2,3)= 8 Bo 2 <sup>3</sup>=8</Li></font>
-<LI> <font color="blue"sqrt(25); czyli pierwiastek z 25 </LI></font>
+<LI> <font color="blue"Mnożenie w C++ zaznaczamy gwiazdką np. 5*2=10</LI></font>
+<LI> <font color="blue"potęgowanie to pow(2,3)= 8 Bo 2 <sup>3</sup>=8</Li></font>
+<LI> <font color="blue"sqrt(25); czyli pierwiastek z 25 </LI> </font>
 </UL>
 
 
