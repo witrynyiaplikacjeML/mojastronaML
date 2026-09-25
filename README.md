@@ -32,5 +32,19 @@
 <p align="left"> <font color="black" size="4" face="Arial"> H<sub>2</sub>SO<sub>4</sub> </font> </p> <br>
         
 <p align="left"> <font color="black" size="3" face="New Roman"> x<sup>*</sup>x=x<sup>2</sup> </font> </p> <br>
+
+
+
+<p align="left"> <font color="black" size="18" face="Arial"> poniżej są trzy wyliczenia 
+ty zaproponuj swoje ,związane z informatyką </font>  </p> <br>
+
+
+
+
+
+
+
+
+
     </body> 
   </html> 
