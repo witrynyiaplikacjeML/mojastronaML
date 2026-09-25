@@ -35,10 +35,12 @@
 
 
 
-<p align="left"> <font color="black" size="10" face="Georgia"> poniżej są trzy wyliczenia z różnymi znakami wyliczenia</font> </p> <br>
-<p align="left"> <font color="black" size="10" face="Georgia"> Ty zaproponuj  swoje,związane z informatyką</font> </p> <br>
+<p align="left"> <font color="black" size="9" face="Georgia"> poniżej są trzy wyliczenia z różnymi znakami wyliczenia  </font> </p> <br>
+<p align="left"> <font color="black" size="9" face="Georgia"> Ty zaproponuj  swoje,związane z informatyką</font> </p> <br>
 
-<p align="left"> <font color="blue" size="10" face="Arial"> Możliwość formatowania tekstu w HTML.</font> </p> <br>
+<p align="left"> <font color="blue" size="4" face="Arial"> Możliwość formatowania tekstu w HTML.</font> </p> <br>
+
+
 
 
 
