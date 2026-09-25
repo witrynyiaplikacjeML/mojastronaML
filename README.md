@@ -34,14 +34,14 @@
 <p align="left"> <font color="black" size="3" face="New Roman"> x<sup>*</sup>x=x<sup>2</sup> </font> </p> <br>
 
 
-<p align="left"> <font color="black" size="7" face="Georgia"><nobr>poniżej są trzy wyliczenia z różnymi znakami wyliczenia</nobr> </font> </p> <br>
-<p align="left"> <font color="black" size="7" face="Georgia"> Ty zaproponuj  swoje,związane z informatyką</font> </p> <br>
+<p align="left"> <font color="black" size="5" face="Georgia"><nobr>poniżej są trzy wyliczenia z różnymi znakami wyliczenia</nobr> </font> </p> <br>
+<p align="left"> <font color="black" size="5" face="Georgia"> Ty zaproponuj  swoje,związane z informatyką</font> </p> <br>
 <p align="left"> <font color="blue" size="4" face="Arial">podstawowe polecenia C++ </font> </p> <br>
 
 <UL TYPE=disc>     
 <LI>cout << "Hello";(wyświetla tekst)</LI>
 <LI>cin >> x;(wczytuje wartość użytkownika)</LI>
-<LI>endl;(przejście do nowej lini)</LI>> 
+<LI>endl;(przejście do nowej lini)</LI> 
 </UL>
      
 <UL TYPE=circle>
