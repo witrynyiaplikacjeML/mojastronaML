@@ -34,7 +34,7 @@
 <p align="left"> <font color="black" size="3" face="New Roman"> x<sup>*</sup>x=x<sup>2</sup> </font> </p> <br>
 
 
-<p align="left"> <font color="black" size="7" face="Georgia"><nobr></nobr></nobnr>poniżej są trzy wyliczenia z różnymi znakami wyliczenia</nobr> </font> </p> <br>
+<p align="left"> <font color="black" size="7" face="Georgia"><nobr>poniżej są trzy wyliczenia z różnymi znakami wyliczenia</nobr> </font> </p> <br>
 <p align="left"> <font color="black" size="7" face="Georgia"> Ty zaproponuj  swoje,związane z informatyką</font> </p> <br>
 
 <p align="left"> <font color="blue" size="4" face="Arial"> Możliwość formatowania tekstu w HTML.</font> </p> <br>
