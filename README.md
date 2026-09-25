@@ -39,21 +39,21 @@
 <p align="left"> <font color="blue" size="4" face="Arial">podstawowe polecenia C++ </font> </p> <br>
 
 <UL TYPE=disc>     
-<LI><font color="blue"</font>cout << "Hello";(wyświetla tekst)</LI>
-<LI><font color="blue"</font>cin >> x;(wczytuje wartość użytkownika)</LI>
-<LI><font color="blue"</font>endl;(przejście do nowej lini)</LI>     
+<LI><font color="blue"cout << "Hello";(wyświetla tekst)</LI></font>
+<LI><font color="blue"cin >> x;(wczytuje wartość użytkownika)</LI></font>
+<LI><font color="blue"endl;(przejście do nowej lini)</LI></font> 
 </UL>
      
 <UL TYPE=circle>
-<LI><font color="blue"</font>#include iostream (biblioteka to taki zestaw gotowych rzeczy w programie </LI>
-<LI><font color="blue"</font>double(liczba dziesiętna np.5.5)</LI>
-<LI><font color="blue"</font>w C++ nie ma przecinków pomiędzy liczbami a są kropki</LI>
+<LI><font color="blue"#include iostream (biblioteka to taki zestaw gotowych rzeczy w programie </LI></font>
+<LI><font color="blue"double(liczba dziesiętna np.5.5)</LI></font>
+<LI><font color="blue"w C++ nie ma przecinków pomiędzy liczbami a są kropki</LI></font>
 </UL>
 
 <UL TYPE=square>
-<LI><font color="blue"</font>Mnożenie w C++ zaznaczamy gwiazdką np. 5*2=10</LI>
-<LI><font color="blue"</font>potęgowanie to pow(2,3)= 8 Bo 2 <sup>3</sup>=8</Li>
-<LI> <font color="blue"</font>sqrt(25); czyli pierwiastek z 25 </LI>
+<LI><font color="blue"Mnożenie w C++ zaznaczamy gwiazdką np. 5*2=10</LI></font>
+<LI><font color="blue"potęgowanie to pow(2,3)= 8 Bo 2 <sup>3</sup>=8</Li></font>
+<LI> <font color="blue"sqrt(25); czyli pierwiastek z 25 </LI></font>
 </UL>
 
 
