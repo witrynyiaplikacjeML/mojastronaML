@@ -56,6 +56,15 @@
 <LI>sqrt(25); czyli pierwiastek z 25 </LI>
 </UL>
 
+<br><br><br> 
+<h2> poniżej są  trzy numerowania z różnymi znakami numerowania</h2> 
+<h2> Ty zaproponuj swoje, związane z informatyką</h2> 
+
+
+
+
+
+
 
 
 
