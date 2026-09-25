@@ -35,8 +35,8 @@
 
 
 
-<p align="left"> <font color="black" size="18" face="Arial"> poniżej są trzy wyliczenia 
-ty zaproponuj swoje ,związane z informatyką </font>  </p> <br>
+<p align="left"> <font color="black" size="18" face="Georgia"> poniżej są trzy wyliczenia z różnymi znakami wyliczenia
+Ty zaproponuj swoje ,związane z informatyką </font> </p> <br>
 
 
 
