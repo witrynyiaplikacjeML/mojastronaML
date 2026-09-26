@@ -68,6 +68,15 @@
 <LI>Spear phishing<nobr>ukierunkowany phishing skierowany do konkretnej osoby lub firmy.</nobr></LI>
 </OL> 
 
+<p align="left"> <font color="black" size="4" face="Arial">jak ochraniać się przed włamaniem</font> </p> <br>
+
+<OL TYPE=I START=XI
+<LI>Silne hasła Tworzenie haseł z wielkimi literami oraz z różnymi znakami</LI>
+<LI>nie ufanie podejrzanym wiadomością które chcą wyłudzić z nas dane</LI>
+<LI>aktualizowanie systemu by zwiększyć bezpieczeństwo</LI>  
+</OL>
+
+
 
 
 
