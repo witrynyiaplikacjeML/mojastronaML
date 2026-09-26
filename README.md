@@ -62,8 +62,8 @@
 <p align="left"> <font color="black" size="4" face="Arial">Cyberbezpieczeństwo</font> </p> <br>
 
 
-<OL TYPE=A START=11>  
-<LIL>Phishing <nobr>(próba oszukania użytkownika, np. przez fałszywą wiadomość lub stronę, aby wyłudzić hasło albo dane.)</nobr></LIL>    
+<OL TYPE=1 START=11>  
+<LI>Phishing <nobr>(próba oszukania użytkownika, np. przez fałszywą wiadomość lub stronę, aby wyłudzić hasło albo dane.)</nobr></LI>    
 <LI>smishing <nobr>podejrzane wiadomości SMS z linkami lub prośbą o dane.</nobr></LI> 
 <LI>Spear phishing<nobr>ukierunkowany phishing skierowany do konkretnej osoby lub firmy.</nobr></LI>
 </OL> 
