@@ -77,7 +77,20 @@
 </OL>
 
 
-
+<UL>  
+</UL> 
+<LI> sieci komputerowe  
+<UL>  
+<LI> struktura sieci Internet 
+<LI> protokół TCP/IP  
+<LI> praktyczne podłączenie do Internetu 
+</UL> 
+<LI> usługi internetowe 
+<UL>  
+</UL> 
+<LI> strony WWW 
+<LI> poczta elektroniczna  
+<LI> FTP 
 
 
 
