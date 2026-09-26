@@ -70,27 +70,23 @@
 
 <p align="left"> <font color="black" size="4" face="Arial">jak ochraniać się przed włamaniem</font> </p> <br>
 
-<OL TYPE=I START=11>
+<OL TYPE=A START=11>
 <LI>Silne hasła Tworzenie haseł z wielkimi literami oraz z różnymi znakami</LI>
 <LI>nie ufanie podejrzanym wiadomością które chcą wyłudzić z nas dane</LI>
 <LI>aktualizowanie systemu by zwiększyć bezpieczeństwo</LI>  
+</OL> 
+
+<p align="left"> <font color="black" size="4" face="Arial">Aplikacje używane do Cyberbezpieczeństwa</font> </p> <br>
+
+<OL TYPE=I START=11>
+<LI><Nobr>VirtualBox tak zwana maszyna Virtualna pozwalać Treneowanie Cyber ataków jak i testowanie podejrzanych plików</Nobr></LI>
+<LI><Nobr>WireShark to program który pozwala nam spoglądanie na ruch sieciowy i widzieć jakie są pakiety przesyłane</Nobr></LI>
+<LI><Nobr>Burp Suite Służy do testowania bezpieczeństwa aplikacji internetowych.</Nobr></LI>
+
+
+
+     
 </OL>
-
-
-<UL>  
-</UL> 
-<LI> sieci komputerowe  
-<UL>  
-<LI> struktura sieci Internet 
-<LI> protokół TCP/IP  
-<LI> praktyczne podłączenie do Internetu 
-</UL> 
-<LI> usługi internetowe 
-<UL>  
-</UL> 
-<LI> strony WWW 
-<LI> poczta elektroniczna  
-<LI> FTP 
 
 
 
