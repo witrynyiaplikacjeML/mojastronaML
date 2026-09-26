@@ -62,11 +62,11 @@
 <p align="left"> <font color="black" size="4" face="Arial">Cyberbezpieczeństwo</font> </p> <br>
 
 
-<UL TYPE=A START=11>  
+<OL TYPE=A START=11>  
 <LIL>Phishing <nobr>(próba oszukania użytkownika, np. przez fałszywą wiadomość lub stronę, aby wyłudzić hasło albo dane.)</nobr></LIL>    
-<LI>smishing <nobr>podejrzane wiadomości SMS z linkami lub prośbą o dane.</nobr> 
-<LI>Spear phishing<nobr>ukierunkowany phishing skierowany do konkretnej osoby lub firmy.</nobr>
-</UL> 
+<LI>smishing <nobr>podejrzane wiadomości SMS z linkami lub prośbą o dane.</nobr></LI> 
+<LI>Spear phishing<nobr>ukierunkowany phishing skierowany do konkretnej osoby lub firmy.</nobr></LI>
+</OL> 
 
 
 
