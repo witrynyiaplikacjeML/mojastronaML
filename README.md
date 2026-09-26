@@ -59,15 +59,14 @@
 <br><br><br> 
 <h2> poniżej są  trzy numerowania z różnymi znakami numerowania</h2> 
 <h2> Ty zaproponuj swoje, związane z informatyką</h2> 
-<p align="left"> <font color="black" size="4" face="Arial">  </font> </p> <br>
+<p align="left"> <font color="black" size="4" face="Arial">Cyberbezpieczeństwo</font> </p> <br>
 
 
-<OL TYPE=A START=11>  
-<LI>     
-<LI> 
-<LI>
-<LI>
-</OL> 
+<UL TYPE=A START=11>  
+<LIL>Phishing <nobr>(próba oszukania użytkownika, np. przez fałszywą wiadomość lub stronę, aby wyłudzić hasło albo dane.)</nobr></LIL>    
+<LI>smishing <nobr>podejrzane wiadomości SMS z linkami lub prośbą o dane.</nobr> 
+<LI>Spear phishing<nobr>ukierunkowany phishing skierowany do konkretnej osoby lub firmy.</nobr>
+</UL> 
 
 
 
