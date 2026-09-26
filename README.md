@@ -84,6 +84,44 @@
 <LI><Nobr>Burp Suite Służy do testowania bezpieczeństwa aplikacji internetowych.</Nobr></LI>
 
 
+<br><br><br> 
+<h3> poniżej będą trzy poziomy numerowania/wyliczenia z różnymi  rodzajami numerowania/wyliczenia</h3> 
+<h3> Ty zaproponuj swoje, związane z informatyką</h3>
+
+<ul>
+    <li>Sprzęt
+        <ul>
+            <li>Komputer
+                <ol type="1">
+                    <li>Procesor</li>
+                    <li>RAM</li>
+                    <li>Dysk</li>
+                </ol>
+            </li>
+            <li>Laptop</li>
+        </ul>
+    </li>
+
+    <li>Oprogramowanie
+        <ul>
+            <li>Systemy operacyjne</li>
+            <li>Programy użytkowe</li>
+        </ul>
+    </li>
+</ul>
+                              
+
+
+
+
+
+
+     
+</UL>
+
+
+
+
 
      
 </OL>
