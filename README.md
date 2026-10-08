@@ -52,7 +52,7 @@
 <FIELDSET><LEGEND>Dentysta sadysta</LEGEND>
 -Panie doktorze czy pan ma coś na moję zęby ?
 -Tak,Woreczek..
- <div style="width: 55%; height: 5px; background-color: blue;"></div>    
+ <div style="width: 55%; height: 5px; background-color: blue;" display block 0></div>    
 
 
 
