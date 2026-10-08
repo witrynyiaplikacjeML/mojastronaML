@@ -34,16 +34,26 @@
 <p align="left"> <font color="black" size="3" face="New Roman"> x<sup>*</sup>x=x<sup>2</sup> </font> </p> <br>
 
 
-<p align="left"> <font color="black"<h1>Żart o informatyku </h1></p>
-
+<p align="left"> <h1>Żart o informatyku </h1></p>
+<fieldset style="background-color: green;">
+<div style="border-bottom: 5px solid yellow;">
+</div>
 <FIELDSET>
 <LEGEND>przyszły informatyk</LEGEND>
           Dzieci Piszą wypracowanie o tym jak wyobrażają pracę informatyka.<br>
           Nie piszed tylko Karol.<br>
       -Dlaczego nie piszesz? - pyta go nauczycielka.<br>
       -Czekam,aż mi się otworzy edytor tekstu.<br>
-     
+      <!-Marcello Lipiński 2kp G1 ->
 </FIELDSET>
+
+
+
+
+
+
+
+
 
 
 
