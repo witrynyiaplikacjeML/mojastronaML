@@ -48,6 +48,25 @@
 </FIELDSET>
 
 
+<p align="center"> <h2>Żart o Lekarzu </h2></p>
+<FIELDSET><LEGEND>Dentysta sadysta</LEGEND>
+-Panie doktorze czy pan ma coś na moję zęby ?
+-Tak,Woreczek..
+ <div style="width: 55%; height: 5px; background-color: blue;"></div>    
+
+
+
+
+
+
+
+
+
+     
+</FIELDSET>
+
+
+
 
 
 
