@@ -35,8 +35,9 @@
 
 
 <p align="left"> <h1>Żart o informatyku </h1></p>
-<fieldset style="background-color: green;">
-<div style="border-bottom: 5px solid yellow;">
+<fieldset style="background-color: lightgray;">
+</fieldset>
+<div style="width: 55%; height: 5px; background-color: yellow;"></div>
 </div>
 <FIELDSET>
 <LEGEND>przyszły informatyk</LEGEND>
