@@ -48,21 +48,14 @@
 
 
 
-
-
-
-
-
-
-
 <p align="left"> <font color="black" size="5" face="Georgia"><nobr>poniżej są trzy wyliczenia z różnymi znakami wyliczenia</nobr> </font> </p> <br>
 <p align="left"> <font color="black" size="5" face="Georgia"> Ty zaproponuj  swoje,związane z informatyką</font> </p> <br>
 <p align="left"> <font color="blue" size="4" face="Arial">podstawowe polecenia C++ </font> </p> <br>
 
-<UL TYPE=disc>     
-<LI>cout << "Hello";(wyświetla tekst)</LI>
-<LI>cin >> x;(wczytuje wartość użytkownika)</LI>
-<LI>endl;(przejście do nowej lini)</LI> 
+<UL TYPE="disc">
+    <LI>cout << "Hello"; (wyświetla tekst)</LI>
+    <LI>cin >> x; (wczytuje wartość użytkownika)</LI>
+    <LI>endl; (przejście do nowej linii)</LI>
 </UL>
      
 <UL TYPE=circle>
@@ -109,46 +102,6 @@
 <br><br><br> 
 <h3> poniżej będą trzy poziomy numerowania/wyliczenia z różnymi  rodzajami numerowania/wyliczenia</h3> 
 <h3> Ty zaproponuj swoje, związane z informatyką</h3>
-
-<ul>
-    <li>Sprzęt
-        <ul>
-            <li>Komputer
-                <ol type="1">
-                    <li>Procesor</li>
-                    <li>RAM</li>
-                    <li>Dysk</li>
-                </ol>
-            </li>
-            <li>Laptop</li>
-        </ul>
-    </li>
-
-    <li>Oprogramowanie
-        <ul>
-            <li>Systemy operacyjne</li>
-            <li>Programy użytkowe</li>
-        </ul>
-    </li>
-</ul>
-                              
-
-
-
-
-
-
-     
-</UL>
-
-
-
-
-
-     
-</OL>
-
-
 
 
 
