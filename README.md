@@ -34,6 +34,27 @@
 <p align="left"> <font color="black" size="3" face="New Roman"> x<sup>*</sup>x=x<sup>2</sup> </font> </p> <br>
 
 
+<p align="left"> <font color="black"<h1>Żart o informatyku </h1></p>
+
+<FIELDSET>
+<LEGEND>przyszły informatyk</LEGEND>
+          Dzieci Piszą wypracowanie o tym jak wyobrażają pracę informatyka.<br>
+          Nie piszed tylko Karol.<br>
+      -Dlaczego nie piszesz? - pyta go nauczycielka.<br>
+      -Czekam,aż mi się otworzy edytor tekstu.<br>
+     
+</FIELDSET>
+
+
+
+
+
+
+
+
+
+
+
 <p align="left"> <font color="black" size="5" face="Georgia"><nobr>poniżej są trzy wyliczenia z różnymi znakami wyliczenia</nobr> </font> </p> <br>
 <p align="left"> <font color="black" size="5" face="Georgia"> Ty zaproponuj  swoje,związane z informatyką</font> </p> <br>
 <p align="left"> <font color="blue" size="4" face="Arial">podstawowe polecenia C++ </font> </p> <br>
@@ -82,6 +103,7 @@
 <LI><Nobr>VirtualBox tak zwana maszyna Virtualna pozwalać Treneowanie Cyber ataków jak i testowanie podejrzanych plików</Nobr></LI>
 <LI><Nobr>WireShark to program który pozwala nam spoglądanie na ruch sieciowy i widzieć jakie są pakiety przesyłane</Nobr></LI>
 <LI><Nobr>Burp Suite Służy do testowania bezpieczeństwa aplikacji internetowych.</Nobr></LI>
+
 
 
 <br><br><br> 
