@@ -52,7 +52,7 @@
 <FIELDSET><LEGEND>Dentysta sadysta</LEGEND>
 -Panie doktorze czy pan ma coś na moję zęby ?
 -Tak,Woreczek..
- <div style="width: 55%; height: 5px; background-color: blue;" display block 0></div>    
+ <div style="width: 55%; height: 5px; background-color: blue;"></div>    
 
 
 
@@ -169,7 +169,6 @@
 <br><br><br> 
 <h3> poniżej będą trzy poziomy numerowania/wyliczenia z różnymi  rodzajami numerowania/wyliczenia</h3> 
 <h3> Ty zaproponuj swoje, związane z informatyką</h3>
-
 
 
 
