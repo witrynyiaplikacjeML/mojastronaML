@@ -35,9 +35,8 @@
 
 
 <p align="left"> <h1>Żart o informatyku </h1></p>
-<fieldset style="background-color: lightgray;">
-</fieldset>
-<FIELDSET><LEGEND>przyszły informatyk</LEGEND>
+<fieldset style="background-color: lightgray;"></fieldset>
+    <LEGEND>przyszły informatyk</LEGEND>
           Dzieci Piszą wypracowanie o tym jak wyobrażają pracę informatyka.<br>
           Nie piszed tylko Karol.<br>
       -Dlaczego nie piszesz? - pyta go nauczycielka.<br>
@@ -47,9 +46,15 @@
 
 </FIELDSET>
 
+</fieldset>
+
+
+</FIELDSET>
+
 
 <p align="center"> <h2>Żart o Lekarzu </h2></p>
 <FIELDSET><LEGEND>Dentysta sadysta</LEGEND>
+</FIELDSET>
 -Panie doktorze czy pan ma coś na moję zęby ?
 -Tak,Woreczek..
  <div style="width: 55%; height: 5px; background-color: blue;"></div>    
