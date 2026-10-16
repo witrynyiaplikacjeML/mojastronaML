@@ -33,85 +33,14 @@
         
 <p align="left"> <font color="black" size="3" face="New Roman"> x<sup>*</sup>x=x<sup>2</sup> </font> </p> <br>
 
-
-<p align="left"> <h1>Żart o informatyku </h1></p>
-<fieldset style="background-color: lightgray;"></fieldset>
-    <LEGEND>przyszły informatyk</LEGEND>
-          Dzieci Piszą wypracowanie o tym jak wyobrażają pracę informatyka.<br>
-          Nie piszed tylko Karol.<br>
-      -Dlaczego nie piszesz? - pyta go nauczycielka.<br>
-      -Czekam,aż mi się otworzy edytor tekstu.<br>
-
-<div style="width: 55%; height: 5px; background-color: yellow;"></div>
-
-</FIELDSET>
-
-</fieldset>
-
-
-</FIELDSET>
-
-
-<p align="center"> <h2>Żart o Lekarzu </h2></p>
-<FIELDSET><LEGEND>Dentysta sadysta</LEGEND>
-</FIELDSET>
--Panie doktorze czy pan ma coś na moję zęby ?
--Tak,Woreczek..
- <div style="width: 55%; height: 5px; background-color: blue;"></div>    
-
-
-
-
-
-
-
-
-
-     
-</FIELDSET>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<FIELDSET> 
+     <body bgcolor="silver"><LEGEND</LEGEND> 
+pierwsza linia tekstu ujętego w obramowanie <br> 
+druga linia tekstu ujętego w obramowanie <br> 
+trzecia linia tekstu ujętego w obramowanie <br> 
+</FIELDSET> 
+</body>
+<HR>ALIGN=left> <HR>SIZE=2 WIDTH=50% ALIGN=LEFT COLOR=orange> 
 
 
 
