@@ -33,14 +33,13 @@
         
 <p align="left"> <font color="black" size="3" face="New Roman"> x<sup>*</sup>x=x<sup>2</sup> </font> </p> <br>
 
-
-<Legend><p align="left"> <h1>Żart o informatyku </h1></p></Legend>
+<body bgcolor="silver"><Legend><p align="left"> <h1>Żart o informatyku </h1></p></Legend>
 <fieldset> 
-<legend>Baba u lekarza</legend> 
-Przychodzi baba do lekarza   <br /> 
-a lekarz też baba                    
-</fieldset> 
-<br />
+<legend>Przyszły informatyk</legend> 
+Przychodzi baba do lekarza   <br>
+a lekarz też baba  <br>                  
+</fieldset></body>   
+
 
 
 
