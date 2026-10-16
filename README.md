@@ -61,8 +61,19 @@ Przychodzi do Baby sprzedawca odkurzaczy,stawia odkurzacz na podłodze,podłącz
 -Zjem każdy paproch,którego nie wciągnie te supernowoczesne urządzenie.<br>
 - Na to baba:<br> 
 - Życzę panu smacznego. Od dwóch dni nie ma prądu.
+
+
+
+
+
+Nazwisko&nbsp;Ucznia&nbsp; imię&nbsp;Ucznia
+
+Lipiński&nbsp; &nbsp; &nbsp; &nbsp; Marcello 
+
+zanki&quot; &amp; &lt; &gt; &iexcl;&cent; &pound; &curren;
+     
 </fieldset></body>   
-<HR SIZE=100 WIDTH=20 ALIGN=right NOSHADE>
+<HR SIZE=100 WIDTH=1000 ALIGN=right NOSHADE>
 
 
 
