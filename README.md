@@ -75,7 +75,7 @@ Przychodzi do Baby sprzedawca odkurzaczy,stawia odkurzacz na podłodze,podłącz
 
 
 
-Nazwisko&nbsp;Ucznia&nbsp; imię&nbsp;Ucznia<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<Nazwisko&nbsp;Ucznia&nbsp; imię&nbsp;Ucznia<br>
 
 Lipiński&nbsp; &nbsp; &nbsp; &nbsp; Marcello<br>
 
