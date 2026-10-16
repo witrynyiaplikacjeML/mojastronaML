@@ -57,26 +57,12 @@ nie pisze tylko Karol.<br>
 <body bgcolor="blue"><Legend><p align="left"><h3>Żart o babie</h3></p></Legend>
 <fieldset> 
 <legend>Baba zadrwiała ze sprzedawcy</legend> 
-Przychodzi do Baby sprzedawca odkurzaczy,stawia odkurzacz na podłodze,podłącza do prądu i mówi:
+Przychodzi do Baby sprzedawca odkurzaczy,stawia odkurzacz na podłodze,podłącza do prądu i mówi:<br>
 -Zjem każdy paproch,którego nie wciągnie te supernowoczesne urządzenie.<br>
 - Na to baba:<br> 
-- Życzę panu smacznego. Od dwóch dni nie ma prądu.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<Nazwisko&nbsp;Ucznia&nbsp; imię&nbsp;Ucznia<br>
-
+- Życzę panu smacznego. Od dwóch dni nie ma prądu
+     
+imię&nbsp;&nbsp;&nbsp;&nbsp;Ucznia<br>
 Lipiński&nbsp; &nbsp; &nbsp; &nbsp; Marcello<br>
 
 zanki&quot; &amp; &lt; &gt; &iexcl;&cent; &pound; &curren;<br>
