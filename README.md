@@ -41,8 +41,18 @@ nie pisze tylko Karol.<br>
 -Dlaczgo nie piszesz? -pyta go nauczycielka.<br>
 -Czekam,aż mi się otworzy edytor tekstu.    
 </fieldset></body>   
-<HR SIZE=15 WIDTH=50 ALIGN=left NOSHADE>
+<HR SIZE=100 WIDTH=80% ALIGN=left NOSHADE>
 
+
+
+
+<body bgcolor="blue"><Legend><p align="center"> <h2>Żart o lekarzu</h2></p></Legend>
+<fieldset> 
+<legend>Dentysta Sadysta</legend> 
+- Panie doktorze czy ma pan coś na moje zęby?<br>
+- Tak, woreczek....<br> 
+</fieldset></body>   
+<HR SIZE=100 WIDTH=1000 ALIGN=center NOSHADE>
 
 
 
