@@ -33,14 +33,13 @@
         
 <p align="left"> <font color="black" size="3" face="New Roman"> x<sup>*</sup>x=x<sup>2</sup> </font> </p> <br>
 
-<FIELDSET> 
+
+<Legend><p align="left"> <h1>Żart o informatyku </h1></p></Legend>
+<FIELDSET>
      <body bgcolor="silver"><LEGEND</LEGEND> 
-pierwsza linia tekstu ujętego w obramowanie <br> 
-druga linia tekstu ujętego w obramowanie <br> 
-trzecia linia tekstu ujętego w obramowanie <br> 
 </FIELDSET> 
 </body>
-<HR>ALIGN=left> <HR>SIZE=2 WIDTH=50% ALIGN=LEFT COLOR=orange> 
+
 
 
 
