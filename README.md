@@ -36,10 +36,12 @@
 <body bgcolor="blue"><Legend><p align="left"> <h1>Żart o informatyku </h1></p></Legend>
 <fieldset> 
 <legend>Przyszły informatyk</legend> 
-Przychodzi baba do lekarza   <br>
-a lekarz też baba  <br>                  
+Dzieci pisza wypracowanie o tym jak wyobrażają pracę informatyka.<br>
+nie pisze tylko Karol.<br>
+-Dlaczgo nie piszesz? -pyta go nauczycielka.<br>
+-Czekam,aż mi się otworzy edytor tekstu.    
 </fieldset></body>   
-
+<HR SIZE=10 WIDTH=100 ALIGN=CENTER NOSHADE> 
 
 
 
