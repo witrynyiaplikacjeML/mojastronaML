@@ -54,7 +54,7 @@ nie pisze tylko Karol.<br>
 <HR SIZE=100 WIDTH=1000 ALIGN=center NOSHADE>
 
 
-<body bgcolor="blue"><Legend><p align="left"> <h3>Żart o babie </h3></p></Legend>
+<body bgcolor="blue"><Legend><p align="left"><h3>Żart o babie</h3></p></Legend>
 <fieldset> 
 <legend>Baba zadrwiała ze sprzedawcy</legend> 
 Przychodzi do Baby sprzedawca odkurzaczy,stawia odkurzacz na podłodze,podłącza do prądu i mówi:
@@ -75,7 +75,7 @@ Przychodzi do Baby sprzedawca odkurzaczy,stawia odkurzacz na podłodze,podłącz
 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<Nazwisko&nbsp;Ucznia&nbsp; imię&nbsp;Ucznia<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<Nazwisko&nbsp;Ucznia&nbsp; imię&nbsp;Ucznia<br>
 
 Lipiński&nbsp; &nbsp; &nbsp; &nbsp; Marcello<br>
 
