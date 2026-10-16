@@ -35,11 +35,12 @@
 
 
 <Legend><p align="left"> <h1>Żart o informatyku </h1></p></Legend>
-<FIELDSET>
-     <body bgcolor="silver"><LEGEND</LEGEND> 
-</FIELDSET> 
-</body>
-
+<fieldset> 
+<legend>Baba u lekarza</legend> 
+Przychodzi baba do lekarza   <br /> 
+a lekarz też baba                    
+</fieldset> 
+<br />
 
 
 
