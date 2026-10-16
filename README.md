@@ -66,11 +66,11 @@ Przychodzi do Baby sprzedawca odkurzaczy,stawia odkurzacz na podłodze,podłącz
 
 
 
-Nazwisko&nbsp;Ucznia&nbsp; imię&nbsp;Ucznia
+Nazwisko&nbsp;Ucznia&nbsp; imię&nbsp;Ucznia<br>
 
-Lipiński&nbsp; &nbsp; &nbsp; &nbsp; Marcello 
+Lipiński&nbsp; &nbsp; &nbsp; &nbsp; Marcello<br>
 
-zanki&quot; &amp; &lt; &gt; &iexcl;&cent; &pound; &curren;
+zanki&quot; &amp; &lt; &gt; &iexcl;&cent; &pound; &curren;<br>
      
 </fieldset></body>   
 <HR SIZE=100 WIDTH=1000 ALIGN=right NOSHADE>
