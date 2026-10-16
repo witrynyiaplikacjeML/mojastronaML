@@ -18,7 +18,7 @@
 <h4>  Lipiński </h4><br>
 <h3>  Lipiński </h3><br>
 <h2>  Lipiński </h2><br>
-<h1>  Lipiński </h1><br> 
+<h1>  Lipiński </h1><br>  ]=[
 <p align="left"> <font color="red" size="3" face="Times New Roman"> :D szeroki uśmiech </font> </p> <br>
 <p align="left"> <font color="blue" size="4" face="Times New Roman"> :P pokazanie języka </font> </p> <br>
 <p align="left"> <font color="yellow" size="5" face="Arial"> :C duży smutek </font> </p> <br>
@@ -61,6 +61,15 @@ Przychodzi do Baby sprzedawca odkurzaczy,stawia odkurzacz na podłodze,podłącz
 -Zjem każdy paproch,którego nie wciągnie te supernowoczesne urządzenie.<br>
 - Na to baba:<br> 
 - Życzę panu smacznego. Od dwóch dni nie ma prądu.
+
+
+
+
+
+
+
+
+
 
 
 
