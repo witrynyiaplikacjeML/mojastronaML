@@ -33,7 +33,7 @@
         
 <p align="left"> <font color="black" size="3" face="New Roman"> x<sup>*</sup>x=x<sup>2</sup> </font> </p> <br>
 
-<body bgcolor="silver"><Legend><p align="left"> <h1>Żart o informatyku </h1></p></Legend>
+<body bgcolor="blue"><Legend><p align="left"> <h1>Żart o informatyku </h1></p></Legend>
 <fieldset> 
 <legend>Przyszły informatyk</legend> 
 Przychodzi baba do lekarza   <br>
