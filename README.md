@@ -54,7 +54,7 @@ nie pisze tylko Karol.<br>
 <HR SIZE=100 WIDTH=1000 ALIGN=center NOSHADE>
 
 
-<body bgcolor="blue"><Legend><p align="center"> <h3>żart o babie </h3></p></Legend>
+<body bgcolor="blue"><Legend><p align="left"> <h3>Żart o babie </h3></p></Legend>
 <fieldset> 
 <legend>Baba zadrwiała ze sprzedawcy</legend> 
 Przychodzi do Baby sprzedawca odkurzaczy,stawia odkurzacz na podłodze,podłącza do prądu i mówi:
@@ -62,7 +62,7 @@ Przychodzi do Baby sprzedawca odkurzaczy,stawia odkurzacz na podłodze,podłącz
 - Na to baba:<br> 
 - Życzę panu smacznego. Od dwóch dni nie ma prądu.
 </fieldset></body>   
-<HR SIZE=4 WIDTH=20 ALIGN=right NOSHADE>
+<HR SIZE=100 WIDTH=20 ALIGN=right NOSHADE>
 
 
 
