@@ -62,10 +62,10 @@ Przychodzi do Baby sprzedawca odkurzaczy,stawia odkurzacz na podłodze,podłącz
 - Na to baba:<br> 
 - Życzę panu smacznego. Od dwóch dni nie ma prądu
      
-imię&nbsp;&nbsp;&nbsp;&nbsp;Ucznia<br>
-Lipiński&nbsp; &nbsp; &nbsp; &nbsp; Marcello<br>
+imię&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ucznia<br>
+&nbsp;Lipiński&nbsp; &nbsp; &nbsp; &nbsp; Marcello<br>
 
-zanki&quot; &amp; &lt; &gt; &iexcl;&cent; &pound; &curren;<br>
+znaki&quot; &amp; &lt; &gt; &iexcl;&cent; &pound; &curren;<br>
      
 </fieldset></body>   
 <HR SIZE=100 WIDTH=1000 ALIGN=right NOSHADE>
