@@ -33,41 +33,44 @@
         
 <p align="left"> <font color="black" size="3" face="New Roman"> x<sup>*</sup>x=x<sup>2</sup> </font> </p> <br>
 
-<body><Legend><p align="left"> <h1>Żart o informatyku </h1></p></Legend>
-<fieldset> 
-<legend>Przyszły informatyk</legend> 
-Dzieci pisza wypracowanie o tym jak wyobrażają pracę informatyka.<br>
-nie pisze tylko Karol.<br>
--Dlaczgo nie piszesz? -pyta go nauczycielka.<br>
--Czekam,aż mi się otworzy edytor tekstu.    
-</fieldset></body>   
-<HR SIZE=100 WIDTH=350 ALIGN=LEFT COLOR="red">
+<h1 align="left">Żart o informatyku</h1>
 
+<fieldset>
+<legend>Przyszły informatyk</legend>
+Dzieci piszą wypracowanie o pracy informatyka.<br>
+Nie pisze tylko Karol.<br>
+- Dlaczego nie piszesz? - pyta nauczycielka.<br>
+- Czekam, aż otworzy mi się edytor tekstu.
+</fieldset>
 
+<hr size="5" width="350" align="left" color="red">
 
-<body><Legend><p align="center"> <h2>Żart o lekarzu</h2></p></Legend>
-<fieldset><legend>Dentysta Sadysta</legend> 
-- Panie doktorze czy ma pan coś na moje zęby?<br>
-- Tak, woreczek....<br> </fieldset></body> 
+<h2 align="center">Żart o lekarzu</h2>
 
-<HR SIZE=100 WIDTH=400 ALIGN=center COLOR="blue">
+<fieldset>
+<legend>Dentysta sadysta</legend>
+- Panie doktorze, czy ma pan coś na moje zęby?<br>
+- Tak, woreczek...
+</fieldset>
 
+<hr size="5" width="400" align="center" color="blue">
 
-<body> <Legend><p align="right"><h3>Żart o babie</h3></p></Legend>
-<fieldset> 
-<legend>Baba zadrwiała ze sprzedawcy</legend> 
-Przychodzi do Baby sprzedawca odkurzaczy,stawia odkurzacz na podłodze,podłącza do prądu i mówi:<br>
--Zjem każdy paproch,którego nie wciągnie te supernowoczesne urządzenie.<br>
-- Na to baba:<br> 
-- Życzę panu smacznego. Od dwóch dni nie ma prądu<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<HR SIZE=100 WIDTH=400 ALIGN=right COLOR="purple">
+<h3 align="right">Żart o babie</h3>
 
+<fieldset>
+<legend>Baba zadrwiła ze sprzedawcy</legend>
+Przychodzi do baby sprzedawca odkurzaczy.<br>
+- Zjem każdy paproch, którego nie wciągnie to urządzenie.<br>
+- Życzę panu smacznego. Od dwóch dni nie ma prądu!
+</fieldset>
 
-<p><b>Nazwisko&nbspucznia;&nbsp;imię&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ucznia</b></p>
-&nbsp;Lipiński&nbsp; &nbsp; &nbsp; &nbsp; Marcello<br>
+<hr size="5" width="400" align="right" color="purple">
 
-znaki&nbsp;&quot; &amp; &lt; &gt; &iexcl;&cent; &pound; &curren;<br>
-     
-</fieldset></body>   
+<p><b>Nazwisko ucznia; imię ucznia</b></p>
+Lipiński &nbsp;&nbsp;&nbsp; Marcello<br>
+
+Znaki: &quot; &amp; &lt; &gt; &iexcl; &cent; &pound; &curren;
+
 
 
 
