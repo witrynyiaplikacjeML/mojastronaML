@@ -60,9 +60,10 @@ nie pisze tylko Karol.<br>
 Przychodzi do Baby sprzedawca odkurzaczy,stawia odkurzacz na podłodze,podłącza do prądu i mówi:<br>
 -Zjem każdy paproch,którego nie wciągnie te supernowoczesne urządzenie.<br>
 - Na to baba:<br> 
-- Życzę panu smacznego. Od dwóch dni nie ma prądu
-     
-imię&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ucznia<br>
+- Życzę panu smacznego. Od dwóch dni nie ma prądu<br>
+
+    
+<p><b>Nazwisko&nbspucznia;&nbspimię&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ucznia</b></p>
 &nbsp;Lipiński&nbsp; &nbsp; &nbsp; &nbsp; Marcello<br>
 
 znaki&quot; &amp; &lt; &gt; &iexcl;&cent; &pound; &curren;<br>
