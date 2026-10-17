@@ -42,8 +42,7 @@ Nie pisze tylko Karol.<br>
 - Dlaczego nie piszesz? - pyta nauczycielka.<br>
 - Czekam, aż otworzy mi się edytor tekstu.
 </fieldset>
-
-<hr size="5" width="500" align="left" color="#ffc400">
+<div style="background: orange; height: 50px; margin-bottom: 10px;"></div>
 
 <h2 align="center">Żart o lekarzu</h2>
 
@@ -52,7 +51,7 @@ Nie pisze tylko Karol.<br>
 - Panie doktorze, czy ma pan coś na moje zęby?<br>
 - Tak, woreczek...
 </fieldset>
-<hr size="10" width="700" align="center" color="#00e5c3">
+<div style="background: blue; height: 50px; margin-bottom: 10px;"></div>
 
 <h3 align="right">Żart o babie</h3>
 
@@ -67,7 +66,7 @@ Lipiński &nbsp;&nbsp;&nbsp; Marcello<br>
 Znaki: &quot; &amp; &lt; &gt; &iexcl; &cent; &pound; &curren;
 </fieldset>
 
-<hr size="10" width="500" align="right" color="#d000ff">
+<div style="background: purple; height: 50px;"></div>
 
 
 
