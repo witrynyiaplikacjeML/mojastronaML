@@ -33,7 +33,7 @@
         
 <p align="left"> <font color="black" size="3" face="New Roman"> x<sup>*</sup>x=x<sup>2</sup> </font> </p> <br>
 
-<body bgcolor="blue"><Legend><p align="left"> <h1>Żart o informatyku </h1></p></Legend>
+<body><Legend><p align="left"> <h1>Żart o informatyku </h1></p></Legend>
 <fieldset> 
 <legend>Przyszły informatyk</legend> 
 Dzieci pisza wypracowanie o tym jak wyobrażają pracę informatyka.<br>
@@ -41,35 +41,34 @@ nie pisze tylko Karol.<br>
 -Dlaczgo nie piszesz? -pyta go nauczycielka.<br>
 -Czekam,aż mi się otworzy edytor tekstu.    
 </fieldset></body>   
-<HR SIZE=5 WIDTH=1000 ALIGN=left NOSHADE COLOR="orange">
+<HR SIZE=5 WIDTH=400 ALIGN=left COLOR="orange">
 
 
 
-<body bgcolor="blue"><Legend><p align="center"> <h2>Żart o lekarzu</h2></p></Legend>
+<body><Legend><p align="center"> <h2>Żart o lekarzu</h2></p></Legend>
 <fieldset> 
 <legend>Dentysta Sadysta</legend> 
 - Panie doktorze czy ma pan coś na moje zęby?<br>
 - Tak, woreczek....<br> 
 </fieldset></body>   
-<HR SIZE=100 WIDTH=1000 ALIGN=center NOSHADE>
+<HR SIZE=100 WIDTH=400 ALIGN=center COLOR="blue">
 
 
-<body bgcolor="blue"><Legend><p align="left"><h3>Żart o babie</h3></p></Legend>
+<body> <Legend><p align="right"><h3>Żart o babie</h3></p></Legend>
 <fieldset> 
 <legend>Baba zadrwiała ze sprzedawcy</legend> 
 Przychodzi do Baby sprzedawca odkurzaczy,stawia odkurzacz na podłodze,podłącza do prądu i mówi:<br>
 -Zjem każdy paproch,którego nie wciągnie te supernowoczesne urządzenie.<br>
 - Na to baba:<br> 
-- Życzę panu smacznego. Od dwóch dni nie ma prądu<br>
+- Życzę panu smacznego. Od dwóch dni nie ma prądu<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<HR SIZE=100 WIDTH=400 ALIGN=right COLOR="purple">
 
-    
+
 <p><b>Nazwisko&nbspucznia;&nbsp;imię&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ucznia</b></p>
 &nbsp;Lipiński&nbsp; &nbsp; &nbsp; &nbsp; Marcello<br>
 
-znaki&quot; &amp; &lt; &gt; &iexcl;&cent; &pound; &curren;<br>
+znaki&nbsp;&quot; &amp; &lt; &gt; &iexcl;&cent; &pound; &curren;<br>
      
 </fieldset></body>   
-<HR SIZE=100 WIDTH=500 ALIGN=right NOSHADE>
 
 
 
