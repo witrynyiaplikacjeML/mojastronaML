@@ -128,28 +128,25 @@ Znaki: &quot; &amp; &lt; &gt; &iexcl; &cent; &pound; &curren;
 <h3> poniżej będą trzy poziomy numerowania/wyliczenia z różnymi  rodzajami numerowania/wyliczenia</h3> 
 <h3> Ty zaproponuj swoje, związane z informatyką</h3>
 
-<OL>  
-<LI>  Systemy operacyjne 
+<OL><LI>  Systemy operacyjne 
 <OL type=A>  
 <LI> Ubuntu
 <LI> IOS  
 <LI> Windows
-</OL>  
+</OL>   
 <LI> Klawiatury
-<OL type=A>  
-<LI> Membranowa 
-<OL type=a> 
+<OL type=1>
+<LI> Membranowa     
 <LI> Mechaniczna
 <LI> Hybrydowa
 </OL> 
 <LI>Virusy
-<OL type=a> 
+<OL type=i> 
 <LI>Wanna cry
 <LI>Ransomware
 <LI>koń trojański 
-</OL> 
-</OL> 
-</OL> 
+</OL> </OL>  
+
 
 
 
