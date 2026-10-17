@@ -43,7 +43,7 @@ Nie pisze tylko Karol.<br>
 - Czekam, aż otworzy mi się edytor tekstu.
 </fieldset>
 
-<HR SIZE=7 WIDTH=50% ALIGN=left COLOR="orange">
+<HR SIZE=7 WIDTH=50 ALIGN=left COLOR="orange">
 
 <h2 align="center">Żart o lekarzu</h2>
 
@@ -53,7 +53,7 @@ Nie pisze tylko Karol.<br>
 - Tak, woreczek...
 </fieldset>
 
-<HR SIZE=5 WIDTH=30% ALIGN=right COLOR="blue">
+<HR SIZE=5 WIDTH=30 ALIGN=right COLOR="blue">
 
 <h3 align="right">Żart o babie</h3>
 
@@ -67,7 +67,7 @@ Przychodzi do baby sprzedawca odkurzaczy.<br>
 Lipiński &nbsp;&nbsp;&nbsp; Marcello<br>
 Znaki: &quot; &amp; &lt; &gt; &iexcl; &cent; &pound; &curren;
 </fieldset>
-<HR SIZE=7 WIDTH=50% ALIGN=right COLOR="purple">
+<HR SIZE=7 WIDTH=100 ALIGN=right COLOR="purple">
 
 
 
