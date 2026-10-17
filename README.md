@@ -46,13 +46,10 @@ nie pisze tylko Karol.<br>
 
 
 <body><Legend><p align="center"> <h2>Żart o lekarzu</h2></p></Legend>
-<fieldset> 
-<legend>Dentysta Sadysta</legend> 
+<fieldset><legend>Dentysta Sadysta</legend> 
 - Panie doktorze czy ma pan coś na moje zęby?<br>
-- Tak, woreczek....<br> 
-<HR SIZE=100 WIDTH=400 ALIGN=center COLOR="blue">
+- Tak, woreczek....<br> </fieldset></body> 
 
-</fieldset></body>   
 <HR SIZE=100 WIDTH=400 ALIGN=center COLOR="blue">
 
 
