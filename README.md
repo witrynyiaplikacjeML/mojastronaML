@@ -42,7 +42,7 @@ Nie pisze tylko Karol.<br>
 - Dlaczego nie piszesz? - pyta nauczycielka.<br>
 - Czekam, aż otworzy mi się edytor tekstu.
 </fieldset>
-<div style="background: orange; height: 10px; width: 50%; margin-bottom: 10px;"></div>
+<div style="background: orange; height: 10px; width: 60%; margin-bottom: 10px;"></div>
 
 
 <h2 align="center">Żart o lekarzu</h2>
@@ -52,7 +52,7 @@ Nie pisze tylko Karol.<br>
 - Panie doktorze, czy ma pan coś na moje zęby?<br>
 - Tak, woreczek...
 </fieldset>
-<div style="background: blue; height: 10px; width: 50%; margin: 0 auto 10px auto;"></div>
+<div style="background: blue; height: 10px; width: 60%; margin: 0 auto 10px auto;"></div>
 
 <h3 align="right">Żart o babie</h3>
 
@@ -67,7 +67,7 @@ Lipiński &nbsp;&nbsp;&nbsp; Marcello<br>
 Znaki: &quot; &amp; &lt; &gt; &iexcl; &cent; &pound; &curren;
 </fieldset>
 
-<div style="background: purple; height: 10px; width: 50%; margin-left: auto;"></div>
+<div style="background: purple; height: 10px; width: 60%; margin-left: auto;"></div>
 
 
 
@@ -127,6 +127,29 @@ Znaki: &quot; &amp; &lt; &gt; &iexcl; &cent; &pound; &curren;
 <br><br><br> 
 <h3> poniżej będą trzy poziomy numerowania/wyliczenia z różnymi  rodzajami numerowania/wyliczenia</h3> 
 <h3> Ty zaproponuj swoje, związane z informatyką</h3>
+
+<OL>  
+<LI>  Systemy operacyjne 
+<OL type=A>  
+<LI> Ubuntu
+<LI> IOS  
+<LI> Windows
+</OL>  
+<LI> Klawiatury
+<OL type=A>  
+<LI> Membranowa 
+<OL type=a> 
+<LI> Mechaniczna
+<LI> Hybrydowa
+</OL> 
+<LI>Virusy
+<OL type=a> 
+<LI>Wanna cry
+<LI>Ransomware
+<LI>koń trojański 
+</OL> 
+</OL> 
+</OL> 
 
 
 
