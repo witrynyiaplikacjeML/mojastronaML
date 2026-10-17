@@ -146,7 +146,7 @@ Znaki: &quot; &amp; &lt; &gt; &iexcl; &cent; &pound; &curren;
     </li>
 
     <li>Wirusy
-        <ol type="I">
+        <ol type="I"> START=11>
             <li>WannaCry</li>
             <li>Ransomware</li>
             <li>Koń trojański</li>
