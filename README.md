@@ -50,6 +50,8 @@ nie pisze tylko Karol.<br>
 <legend>Dentysta Sadysta</legend> 
 - Panie doktorze czy ma pan coś na moje zęby?<br>
 - Tak, woreczek....<br> 
+<HR SIZE=100 WIDTH=400 ALIGN=center COLOR="blue">
+
 </fieldset></body>   
 <HR SIZE=100 WIDTH=400 ALIGN=center COLOR="blue">
 
