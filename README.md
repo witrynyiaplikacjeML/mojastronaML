@@ -62,14 +62,13 @@ Nie pisze tylko Karol.<br>
 Przychodzi do baby sprzedawca odkurzaczy.<br>
 - Zjem każdy paproch, którego nie wciągnie to urządzenie.<br>
 - Życzę panu smacznego. Od dwóch dni nie ma prądu!
-</fieldset>
-
-<hr size="5" width="400" align="right" color="purple">
 
 <p><b>Nazwisko ucznia; imię ucznia</b></p>
 Lipiński &nbsp;&nbsp;&nbsp; Marcello<br>
-
 Znaki: &quot; &amp; &lt; &gt; &iexcl; &cent; &pound; &curren;
+</fieldset>
+<hr size="5" width="400" align="right" color="purple">
+
 
 
 
