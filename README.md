@@ -43,7 +43,7 @@ Nie pisze tylko Karol.<br>
 - Czekam, aż otworzy mi się edytor tekstu.
 </fieldset>
 
-<HR SIZE=5 WIDTH=500 ALIGN=left COLOR="orange">
+<hr size="5" width="500" align="left" color="#ffc400">
 
 <h2 align="center">Żart o lekarzu</h2>
 
@@ -52,7 +52,7 @@ Nie pisze tylko Karol.<br>
 - Panie doktorze, czy ma pan coś na moje zęby?<br>
 - Tak, woreczek...
 </fieldset>
-<HR SIZE=10 WIDTH=700 ALIGN=center COLOR="turquoise">
+<hr size="10" width="700" align="center" color="#00e5c3">
 
 <h3 align="right">Żart o babie</h3>
 
@@ -67,7 +67,7 @@ Lipiński &nbsp;&nbsp;&nbsp; Marcello<br>
 Znaki: &quot; &amp; &lt; &gt; &iexcl; &cent; &pound; &curren;
 </fieldset>
 
-<HR SIZE=10 WIDTH=500 ALIGN=right COLOR="purple">
+<hr size="10" width="500" align="right" color="#d000ff">
 
 
 
