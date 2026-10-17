@@ -41,7 +41,7 @@ nie pisze tylko Karol.<br>
 -Dlaczgo nie piszesz? -pyta go nauczycielka.<br>
 -Czekam,aż mi się otworzy edytor tekstu.    
 </fieldset></body>   
-<HR SIZE=5 WIDTH=400 ALIGN=left COLOR="orange">
+<HR SIZE=100 WIDTH=50% ALIGN=LEFT COLOR=red>
 
 
 
