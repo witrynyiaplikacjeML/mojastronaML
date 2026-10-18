@@ -156,21 +156,22 @@ Znaki: &quot; &amp; &lt; &gt; &iexcl; &cent; &pound; &curren;
         </ol>
     </li>
 </ol>
-
-<UL>  
-</UL> 
-<LI> Media Przewodowe
-<UL>  
-<LI> UTP
-<LI> FTP 
-<LI> STP 
-</UL> 
-<LI> Media bez przewodowe
-<UL>  
-</UL> 
-<LI> Fale radiowe
-<LI> Fale świetlne
-<LI> Pod czerwień
+<ul>
+    <li>Media przewodowe
+        <ol type="1">
+            <li>UTP</li>
+            <li>FTP</li>
+            <li>STP</li>
+        </ol>
+    </li>
+    <li>Media bezprzewodowe
+        <ol type="A">
+            <li>Fale radiowe</li>
+            <li>Fale świetlne</li>
+            <li>Podczerwień</li>
+        </ol>
+    </li>
+</ul>
 
 
     </body> 
