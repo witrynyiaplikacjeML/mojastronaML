@@ -39,7 +39,6 @@
 <h1 align="left">Żart o informatyku</h1>
 
 <fieldset>
-<IMG SRC="https://github.com/user-attachments/assets/4dbb31bf-4a70-4188-bff4-d4711a30f509" ALIGN=RIGHT BORDER=1 WIDTH=100 HEIGHT=100 ALT="Lipiński"><legend>Przyszły informatyk</legend>
 Dzieci piszą wypracowanie o pracy informatyka.<br>
 Nie pisze tylko Karol.<br>
 - Dlaczego nie piszesz? - pyta nauczycielka.<br>
@@ -69,7 +68,6 @@ Przychodzi do baby sprzedawca odkurzaczy.<br>
 Lipiński &nbsp;&nbsp;&nbsp; Marcello<br>
 Znaki: &quot; &amp; &lt; &gt; &iexcl; &cent; &pound; &curren;
 </fieldset>
-
 <div style="background: purple; height: 10px; width: 60%; margin-left: auto;"></div>
 
 
@@ -177,8 +175,10 @@ Znaki: &quot; &amp; &lt; &gt; &iexcl; &cent; &pound; &curren;
 
 
 
-    </body> 
-  </html> 
+   
+
+
+  
 
 
 
