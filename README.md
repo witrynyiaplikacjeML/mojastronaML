@@ -39,9 +39,7 @@
 <h1 align="left">Żart o informatyku</h1>
 
 <fieldset>
-<legend>Przyszły informatyk</legend><IMG SRC="<img width="480" height="480" alt="giphy 1" src="https://github.com/user-attachments/assets/4dbb31bf-4a70-4188-bff4-d4711a30f509" />
-" ALIGN=umiejscowienie BORDER=1 WIDTH=10 
-HEIGHT=y ALT=Lipiński>
+<IMG SRC="https://github.com/user-attachments/assets/4dbb31bf-4a70-4188-bff4-d4711a30f509" ALIGN=RIGHT BORDER=1 WIDTH=100 HEIGHT=100 ALT="Lipiński"><legend>Przyszły informatyk</legend>
 Dzieci piszą wypracowanie o pracy informatyka.<br>
 Nie pisze tylko Karol.<br>
 - Dlaczego nie piszesz? - pyta nauczycielka.<br>
