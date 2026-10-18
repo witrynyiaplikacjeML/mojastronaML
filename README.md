@@ -1,11 +1,17 @@
-<!DOCTYPE html> 
-<html lang="pl-PL"> 
-<html> 
-     <head> 
-             <meta charset="utf-8"> 
-             <title>       </title>
-<body></body>
-     </html>
+
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>mojastronaML</title>
+</head>
+<body>
+
+    <h1>mojastronaML</h1>
+
+</body>
+</html>
+
 <p align="right"> <font color="red" size="7" face="Arial"> Marcello </font> </p> <br> 
  <p align="right"> <font color="red" size="6" face="Arial"> Marcello </font> </p> <br> 
 <p align="right"> <font color="red" size="5" face="Arial"> Marcello </font> </p> <br> 
