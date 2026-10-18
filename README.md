@@ -39,7 +39,8 @@
 <h1 align="left">Żart o informatyku</h1>
 
 <fieldset>
-<legend>Przyszły informatyk</legend>
+<legend>Przyszły informatyk</legend><IMG SRC="C:\Users\uczymy się\Desktop\giphy.1.gif" ALIGN=umiejscowienie BORDER=1 WIDTH=10 
+HEIGHT=y ALT=Marcello Lipiński>
 Dzieci piszą wypracowanie o pracy informatyka.<br>
 Nie pisze tylko Karol.<br>
 - Dlaczego nie piszesz? - pyta nauczycielka.<br>
@@ -172,6 +173,9 @@ Znaki: &quot; &amp; &lt; &gt; &iexcl; &cent; &pound; &curren;
         </ol>
     </li>
 </ul>
+
+
+
 
 
     </body> 
