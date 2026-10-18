@@ -3,8 +3,9 @@
 <html> 
      <head> 
              <meta charset="utf-8"> 
-             <title>       </title> 
-          
+             <title>       </title>
+<body></body>
+     </html>
 <p align="right"> <font color="red" size="7" face="Arial"> Marcello </font> </p> <br> 
  <p align="right"> <font color="red" size="6" face="Arial"> Marcello </font> </p> <br> 
 <p align="right"> <font color="red" size="5" face="Arial"> Marcello </font> </p> <br> 
@@ -17,7 +18,7 @@
 <h4>  Lipiński </h4><br>
 <h3>  Lipiński </h3><br>
 <h2>  Lipiński </h2><br>
-<h1>  Lipiński </h1><br>  ]=[
+<h1>  Lipiński </h1><br>  
 <p align="left"> <font color="red" size="3" face="Times New Roman"> :D szeroki uśmiech </font> </p> <br>
 <p align="left"> <font color="blue" size="4" face="Times New Roman"> :P pokazanie języka </font> </p> <br>
 <p align="left"> <font color="yellow" size="5" face="Arial"> :C duży smutek </font> </p> <br>
