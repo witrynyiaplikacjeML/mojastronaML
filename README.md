@@ -1,51 +1,85 @@
 
-<!DOCTYPE html> 
-<html lang="pl-PL"> 
-<html> 
-     <head> 
-             <meta charset="utf-8"> 
-             <title>       </title> 
-     </head> 
-    <body>
-         
-    </body>
-    <p align="right"> <font color="red" size="7" face="Arial"> Marcello </font> </p> <br> 
- <p align="right"> <font color="red" size="6" face="Arial"> Marcello </font> </p> <br> 
-<p align="right"> <font color="red" size="5" face="Arial"> Marcello </font> </p> <br> 
-<p align="right"> <font color="red" size="4" face="Arial"> Marcello </font> </p> <br> 
-<p align="right"> <font color="red" size="3" face="Arial"> Marcello </font> </p> <br> 
-<p align="right"> <font color="red" size="2" face="Arial"> Marcello </font> </p> <br> 
-<p align="right"> <font color="red" size="1" face="Arial"> Marcello </font> </p> <br>
-<h6>  Lipiński </h6><br>
-<h5>  Lipiński </h5><br>
-<h4>  Lipiński </h4><br>
-<h3>  Lipiński </h3><br>
-<h2>  Lipiński </h2><br>
-<h1>  Lipiński </h1><br>  
-<p align="left"> <font color="red" size="3" face="Times New Roman"> :D szeroki uśmiech </font> </p> <br>
-<p align="left"> <font color="blue" size="4" face="Times New Roman"> :P pokazanie języka </font> </p> <br>
-<p align="left"> <font color="yellow" size="5" face="Arial"> :C duży smutek </font> </p> <br>
-<p align="left"> <font color="black" size="6" face="Courier New"> :( smutek, zmartwienie </font> </p> <br>
-<p align="left"> <font color="pink" size="7" face="Verdana"> ;) uśmiech z przymrużeniem oka </font> </p> <br>
-<p align="left"> <font color="green" size="8" face="Courier New"> :) uśmiech </font> </p> <br>
-<p align="left"> <font color="black" size="3" face="Arial"> adress:80-123,Gdańsk,<u>Słoneczna</u><strike>44/3</strike></font> </p> <br>
-<p align="right"> <font color="yellow" size="7" face="Courier New">ULUBIONY AKTOR:JOHN RAMBO</font> </p> <br>
-<p align="center"> <font color="gray" size="5" face="Arial">ULUBIONY ZESPÓŁ Muzyczny:LN</font> </p> <br>
-<p align="center"> <font color="green" size="4" face="Arial"> DATA URODZENIA: 1_MARZEC_2011.</font> </p> <br>
-<p align="left"> <font color="black" size="4" face="Arial"> H<sub>2</sub>SO<sub>4</sub> </font> </p> <br>
-        
-<p align="left"> <font color="black" size="3" face="New Roman"> x<sup>*</sup>x=x<sup>2</sup> </font> </p> <br>
+<!DOCTYPE html>
+<html lang="pl-PL">
+<head>
+    <meta charset="utf-8">
+    <title>Strona Lipińskiego</title>
+</head>
+<body>
+
+<a id="poczatek"></a>
+
+<h2>Linki na górze strony</h2>
+
+<a href="poczta_Lipiński.html">Link do poczty</a><br>
+<a href="plik_Lipiński.html">Link do ściągania pliku</a><br>
+<a href="#srodek">Link do środka tekstu</a><br>
+<a href="#koniec">Link do końca tekstu</a><br>
+<a href="tabela_Lipiński.html">Link do strony zawierającej tabelę</a><br>
+<a href="formularz_Lipiński.html">Link do strony zawierającej formularz</a><br>
+
+<hr>
+
+<p align="right"><font color="red" size="7" face="Arial">Marcello</font></p>
+<p align="right"><font color="red" size="6" face="Arial">Marcello</font></p>
+<p align="right"><font color="red" size="5" face="Arial">Marcello</font></p>
+<p align="right"><font color="red" size="4" face="Arial">Marcello</font></p>
+<p align="right"><font color="red" size="3" face="Arial">Marcello</font></p>
+<p align="right"><font color="red" size="2" face="Arial">Marcello</font></p>
+<p align="right"><font color="red" size="1" face="Arial">Marcello</font></p>
+
+<h6>Lipiński</h6>
+<h5>Lipiński</h5>
+<h4>Lipiński</h4>
+<h3>Lipiński</h3>
+<h2>Lipiński</h2>
+<h1>Lipiński</h1>
+
+<p align="left"><font color="red" size="3" face="Times New Roman">:D szeroki uśmiech</font></p>
+<p align="left"><font color="blue" size="4" face="Times New Roman">:P pokazanie języka</font></p>
+<p align="left"><font color="yellow" size="5" face="Arial">:C duży smutek</font></p>
+<p align="left"><font color="black" size="6" face="Courier New">:( smutek, zmartwienie</font></p>
+<p align="left"><font color="pink" size="7" face="Verdana">;) uśmiech z przymrużeniem oka</font></p>
+<p align="left"><font color="green" size="7" face="Courier New">:) uśmiech</font></p>
+
+<p align="left">
+<font color="black" size="3" face="Arial">
+Adres: 80-123, Gdańsk, <u>Słoneczna</u> <strike>44/3</strike>
+</font>
+</p>
+
+<p align="right">
+<font color="yellow" size="7" face="Courier New">
+ULUBIONY AKTOR: JOHN RAMBO
+</font>
+</p>
+
+<p align="center">
+<font color="gray" size="5" face="Arial">
+ULUBIONY ZESPÓŁ MUZYCZNY: LN
+</font>
+</p>
+
+<p align="center">
+<font color="green" size="4" face="Arial">
+DATA URODZENIA: 1 MARZEC 2011
+</font>
+</p>
+
+<p align="left">H<sub>2</sub>SO<sub>4</sub></p>
+<p align="left">x*x = x<sup>2</sup></p>
 
 <h1 align="left">Żart o informatyku</h1>
 
 <fieldset>
+<legend>Przyszły informatyk</legend>
 Dzieci piszą wypracowanie o pracy informatyka.<br>
 Nie pisze tylko Karol.<br>
 - Dlaczego nie piszesz? - pyta nauczycielka.<br>
 - Czekam, aż otworzy mi się edytor tekstu.
 </fieldset>
-<div style="background: orange; height: 10px; width: 60%; margin-bottom: 10px;"></div>
 
+<div style="background: orange; height: 10px; width: 60%; margin-bottom: 10px;"></div>
 
 <h2 align="center">Żart o lekarzu</h2>
 
@@ -54,6 +88,7 @@ Nie pisze tylko Karol.<br>
 - Panie doktorze, czy ma pan coś na moje zęby?<br>
 - Tak, woreczek...
 </fieldset>
+
 <div style="background: blue; height: 10px; width: 60%; margin: 0 auto 10px auto;"></div>
 
 <h3 align="right">Żart o babie</h3>
@@ -68,66 +103,78 @@ Przychodzi do baby sprzedawca odkurzaczy.<br>
 Lipiński &nbsp;&nbsp;&nbsp; Marcello<br>
 Znaki: &quot; &amp; &lt; &gt; &iexcl; &cent; &pound; &curren;
 </fieldset>
+
 <div style="background: purple; height: 10px; width: 60%; margin-left: auto;"></div>
 
+<hr>
+<a id="srodek"></a>
 
+<h2>Linki w środku strony</h2>
 
+<a href="poczta_Lipiński.html">Link do poczty</a><br>
+<a href="plik_Lipiński.html">Link do ściągania pliku</a><br>
+<a href="#poczatek">Link początek tekstu</a><br>
+<a href="#koniec">Link do końca tekstu</a><br>
+<a href="tabela_Lipiński.html">Link do strony zawierającej tabelę</a><br>
+<a href="formularz_Lipiński.html">Link do strony zawierającej formularz</a><br>
 
+<hr>
 
-<p align="left"> <font color="black" size="5" face="Georgia"><nobr>poniżej są trzy wyliczenia z różnymi znakami wyliczenia</nobr> </font> </p> <br>
-<p align="left"> <font color="black" size="5" face="Georgia"> Ty zaproponuj  swoje,związane z informatyką</font> </p> <br>
-<p align="left"> <font color="blue" size="4" face="Arial">podstawowe polecenia C++ </font> </p> <br>
+<p align="left"><font color="black" size="5" face="Georgia">Poniżej są trzy wyliczenia z różnymi znakami wyliczenia</font></p>
 
-<UL TYPE="disc">
-    <LI>cout << "Hello"; (wyświetla tekst)</LI>
-    <LI>cin >> x; (wczytuje wartość użytkownika)</LI>
-    <LI>endl; (przejście do nowej linii)</LI>
-</UL>
-     
-<UL TYPE=circle>
-<LI> #include iostream (biblioteka to taki zestaw gotowych rzeczy w programie </LI>
-<LI> double(liczba dziesiętna np.5.5)</LI>
-<LI> w C++ nie ma przecinków pomiędzy liczbami a są kropki</LI>
-</UL>
+<p align="left"><font color="black" size="5" face="Georgia">Własne wyliczenia związane z informatyką</font></p>
 
-<UL TYPE=square>
-<LI>Mnożenie w C++ zaznaczamy gwiazdką np. 5*2=10</LI>
-<LI>potęgowanie to pow(2,3)= 8 Bo 2 <sup>3</sup>=8</LI>
-<LI>sqrt(25); czyli pierwiastek z 25 </LI>
-</UL>
+<p align="left"><font color="blue" size="4" face="Arial">Podstawowe polecenia C++</font></p>
 
-<br><br><br> 
-<h2> poniżej są  trzy numerowania z różnymi znakami numerowania</h2> 
-<h2> Ty zaproponuj swoje, związane z informatyką</h2> 
-<p align="left"> <font color="black" size="4" face="Arial">Cyberbezpieczeństwo</font> </p> <br>
+<ul type="disc">
+    <li>cout &lt;&lt; "Hello"; (wyświetla tekst)</li>
+    <li>cin &gt;&gt; x; (wczytuje wartość użytkownika)</li>
+    <li>endl; (przejście do nowej linii)</li>
+</ul>
 
+<ul type="circle">
+    <li>#include iostream (biblioteka z gotowymi elementami programu)</li>
+    <li>double (liczba dziesiętna, np. 5.5)</li>
+    <li>W C++ część dziesiętną liczby zapisujemy kropką.</li>
+</ul>
 
-<OL TYPE=1 START=11>  
-<LI>Phishing <nobr>(próba oszukania użytkownika, np. przez fałszywą wiadomość lub stronę, aby wyłudzić hasło albo dane.)</nobr></LI>    
-<LI>smishing <nobr>podejrzane wiadomości SMS z linkami lub prośbą o dane.</nobr></LI> 
-<LI>Spear phishing<nobr>ukierunkowany phishing skierowany do konkretnej osoby lub firmy.</nobr></LI>
-</OL> 
+<ul type="square">
+    <li>Mnożenie w C++ zaznaczamy gwiazdką, np. 5*2=10.</li>
+    <li>Potęgowanie: pow(2,3)=8, ponieważ 2<sup>3</sup>=8.</li>
+    <li>sqrt(25) oznacza pierwiastek kwadratowy z 25.</li>
+</ul>
 
-<p align="left"> <font color="black" size="4" face="Arial">jak ochraniać się przed włamaniem</font> </p> <br>
+<br>
 
-<OL TYPE=A START=11>
-<LI>Silne hasła Tworzenie haseł z wielkimi literami oraz z różnymi znakami</LI>
-<LI>nie ufanie podejrzanym wiadomością które chcą wyłudzić z nas dane</LI>
-<LI>aktualizowanie systemu by zwiększyć bezpieczeństwo</LI>  
-</OL> 
+<h2>Poniżej są trzy numerowania z różnymi znakami numerowania</h2>
 
-<p align="left"> <font color="black" size="4" face="Arial">Aplikacje używane do Cyberbezpieczeństwa</font> </p> <br>
+<p><font color="black" size="4" face="Arial">Cyberbezpieczeństwo</font></p>
 
-<OL TYPE=I START=11>
-<LI><Nobr>VirtualBox tak zwana maszyna Virtualna pozwalać Treneowanie Cyber ataków jak i testowanie podejrzanych plików</Nobr></LI>
-<LI><Nobr>WireShark to program który pozwala nam spoglądanie na ruch sieciowy i widzieć jakie są pakiety przesyłane</Nobr></LI>
-<LI><Nobr>Burp Suite Służy do testowania bezpieczeństwa aplikacji internetowych.</Nobr></LI>
+<ol type="1" start="11">
+    <li>Phishing – próba oszukania użytkownika w celu wyłudzenia danych.</li>
+    <li>Smishing – podejrzane wiadomości SMS z linkami lub prośbą o dane.</li>
+    <li>Spear phishing – ukierunkowany phishing skierowany do konkretnej osoby lub firmy.</li>
+</ol>
 
+<p><font color="black" size="4" face="Arial">Jak chronić się przed włamaniem?</font></p>
 
+<ol type="A" start="11">
+    <li>Tworzenie silnych haseł z wielkimi literami i różnymi znakami.</li>
+    <li>Nieufanie podejrzanym wiadomościom, które próbują wyłudzić dane.</li>
+    <li>Aktualizowanie systemu w celu zwiększenia bezpieczeństwa.</li>
+</ol>
 
-<br><br><br> 
-<h3> poniżej będą trzy poziomy numerowania/wyliczenia z różnymi  rodzajami numerowania/wyliczenia</h3> 
-<h3> Ty zaproponuj swoje, związane z informatyką</h3>
+<p><font color="black" size="4" face="Arial">Aplikacje używane do cyberbezpieczeństwa</font></p>
+
+<ol type="I" start="11">
+    <li>VirtualBox – maszyna wirtualna do uruchamiania różnych systemów i bezpiecznych testów.</li>
+    <li>Wireshark – program do analizowania ruchu sieciowego i przesyłanych pakietów.</li>
+    <li>Burp Suite – narzędzie do testowania bezpieczeństwa aplikacji internetowych.</li>
+</ol>
+
+<br>
+
+<h3>Poniżej są trzy poziomy numerowania i wyliczenia</h3>
 
 <ol type="i">
     <li>Systemy operacyjne
@@ -146,14 +193,15 @@ Znaki: &quot; &amp; &lt; &gt; &iexcl; &cent; &pound; &curren;
         </ol>
     </li>
 
-    <li>Wirusy
-        <ol type="I"> START=11>
+    <li>Wirusy i zagrożenia
+        <ol type="I" start="11">
             <li>WannaCry</li>
             <li>Ransomware</li>
             <li>Koń trojański</li>
         </ol>
     </li>
 </ol>
+
 <ul>
     <li>Media przewodowe
         <ol type="1">
@@ -162,6 +210,7 @@ Znaki: &quot; &amp; &lt; &gt; &iexcl; &cent; &pound; &curren;
             <li>STP</li>
         </ol>
     </li>
+
     <li>Media bezprzewodowe
         <ol type="A">
             <li>Fale radiowe</li>
@@ -171,14 +220,17 @@ Znaki: &quot; &amp; &lt; &gt; &iexcl; &cent; &pound; &curren;
     </li>
 </ul>
 
+<hr>
+<a id="koniec"></a>
 
+<h2>Linki na dole strony</h2>
 
+<a href="poczta_Lipiński.html">Link do poczty</a><br>
+<a href="plik_Lipiński.html">Link do ściągania pliku</a><br>
+<a href="#poczatek">Link początek tekstu</a><br>
+<a href="#srodek">Link do środka tekstu</a><br>
+<a href="tabela_Lipiński.html">Link do strony zawierającej tabelę</a><br>
+<a href="formularz_Lipiński.html">Link do strony zawierającej formularz</a><br>
 
-
-   
-
-
-  
-
-
-
+</body>
+</html>
