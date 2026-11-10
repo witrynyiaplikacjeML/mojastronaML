@@ -1,15 +1,66 @@
-
 <!DOCTYPE html>
-<html lang="pl">
+<html lang="pl-PL">
 <head>
-    <meta charset="UTF-8">
+    <meta charset="utf-8">
     <meta name="author" content="Marcello Lipiński">
     <title>wykonał LIPIŃSKI</title>
 </head>
 <body>
 
-<!-- Sprawdzian: 13.11.2026, Uczeń: Marcello Lipiński -->
+    <!-- Sprawdzian: 10.11.2026, Uczeń: Marcello Lipiński -->
 
-   <p style="text-align: center; color: red; font-size: 40px; font-family: Arial; border: 5px solid black; padding: 20px;">sklep muzyczny HARMONIIA</p> 
+    <!-- 1. Linia pozioma (Pierwsza z trzech na całej stronie) -->
+    <hr style="border: none; height: 6px; background-color: navy; margin-bottom: 20px;">
+
+    <!-- Nazwa hurtowni/sklepu w obramowaniu -->
+    <div style="border: 2px solid black; padding: 15px; margin: 10px auto; width: 80%; text-align: center;">
+        <p style="margin: 0; color: red; font-size: 40px; font-family: Arial; font-weight: bold;">sklep muzyczny HARMONIIA</p>
+    </div>
+
+    <!-- 2. Linia pozioma (Druga z trzech, inny kolor i grubość) -->
+    <hr style="border: none; height: 3px; background-color: darkgreen; margin-top: 20px; margin-bottom: 20px;">
+
+    <!-- Sekcja z opisem i logo (obramowana) -->
+    <div style="border: 2px solid black; padding: 20px; margin: 10px auto; width: 85%; overflow: hidden;">
+        
+        <!-- Obrazek LOGO wyśrodkowany z tekstem opływającym go z obu stron -->
+        <!-- Aby tekst poprawnie "oblewał" logo z lewej i prawej strony, obrazek ma nadany float: left lub right. W celu uzyskania efektu jak na schemacie, najlepiej umieścić logo pośrodku lub zastosować układ blokowy. Poniżej zastosowano wyśrodkowany blok z opływaniem tekstu: -->
+        <div style="float: right; width: 250px; height: 120px; border: 2px solid black; margin: 10px; text-align: center; line-height: 120px; background-color: #f0f0f0;">
+            [ LOGO (grafika) ]
+        </div>
+
+        <p style="font-family: Arial; font-size: 16px; line-height: 1.6;">
+            Test opisu hurtowni (oblewa logo). Nasz sklep muzyczny HARMONIIA oferuje najwyższej jakości instrumenty muzyczne, akcesoria oraz profesjonalne doradztwo dla każdego muzyka. Test opisu hurtowni. Zapraszamy do zapoznania się z naszym asortymentem i odwiedzenia nas stacjonarnie. Test opisu hurtowni (oblewa logo).
+        </p>
+
+        <!-- Linia wewnątrz sekcji opisowej, odcinająca dół -->
+        <hr style="border: none; border-top: 1px solid gray; margin-top: 30px;">
+    </div>
+
+    <!-- 3. Linia pozioma (Trzecia z trzech, inny kolor i grubość) -->
+    <hr style="border: none; height: 2px; background-color: purple; margin-top: 25px; margin-bottom: 25px;">
+
+    <!-- Sekcja: Wyliczenia (co najmniej 5 pozycji) w ramce -->
+    <div style="border: 2px solid black; padding: 15px; margin: 10px auto; width: 50%;">
+        <p style="margin-top: 0; font-family: Arial; font-weight: bold;">Nasza oferta (co najmniej 5 pozycji):</p>
+        <ul style="font-family: Arial; font-size: 16px;">
+            <li>Gitary klasyczne i akustyczne</li>
+            <li>Pianina cyfrowe i klawiatury</li>
+            <li>Perkusje i akcesoria perkusyjne</li>
+            <li>Skrzypce i instrumenty smyczkowe</li>
+            <li>Wzmacniacze i nagłośnienie</li>
+        </ul>
+    </div>
+
+    <!-- Sekcja: Link do strony menu w ramce -->
+    <div style="border: 2px solid black; padding: 10px; margin: 20px auto; width: 70%; text-align: center;">
+        <a href="menu.html" style="font-family: Arial; font-size: 18px; color: blue; text-decoration: none; font-weight: bold;">Link do strony menu</a>
+    </div>
+
+    <!-- Stopka: Nazwisko ucznia -->
+    <div style="margin-top: 40px; font-family: Arial; font-size: 14px;">
+        &copy; Marcello Lipiński
+    </div>
+
 </body>
 </html>
